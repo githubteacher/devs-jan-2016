@@ -1,4 +1,5 @@
 #include <iostream>
 
-void main(int argc, char** argv) {
+int main() {
+    std::cout << "hello, world!\n";
 }
