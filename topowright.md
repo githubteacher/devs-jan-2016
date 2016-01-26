@@ -1,1 +1,2 @@
-This is an example of a read me file 
+How should I learn this??
+##This is a first part that might be inportant
